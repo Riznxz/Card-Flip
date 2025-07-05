@@ -5,12 +5,10 @@ A sleek and interactive credit card flip animation built with **HTML** and **CSS
 ## 🔗 Live Demo
 
 👉 [View Live on GitHub Pages](http://127.0.0.1:5500/flipcard/flip.html)  
-*(Replace `your-username` with your GitHub username and adjust repo name if different)*
 
 ## 🖼️ Preview
 
 ![Card Flip Preview](flip.png)  
-*(Optional: Add a screenshot named `screenshot.png` showing the front and back of the card)*
 
 ## 🛠️ Built With
 
